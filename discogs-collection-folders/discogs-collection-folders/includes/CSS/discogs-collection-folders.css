@@ -1,0 +1,9 @@
+/*Error message for missing credentials*/
+div#provide_credentials{
+background-color: #f7f6f0;
+border-style: solid;
+border-color: #333;
+border-width: 2px;
+padding-left: 30px;
+padding-bottom: 20px;
+}
